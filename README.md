@@ -47,8 +47,27 @@ npm run dev
 
 ## 📊 Example Output
 
-After analyzing a resume, the system provides:
+After analyzing a resume, the system generates an ATS-style evaluation report.
 
+ATS Score: 82%
+
+Matched Skills:
+✔ Python  
+✔ Machine Learning  
+✔ Data Analysis  
+✔ SQL  
+
+Missing Skills:
+✖ Docker  
+✖ Kubernetes  
+✖ AWS  
+
+Suggestions:
+• Add projects related to cloud deployment  
+• Highlight measurable achievements in experience section  
+• Include more job-specific keywords in the skills section
+
+After analyzing a resume, the system provides:
 - 📈 ATS Compatibility Score
 - 🔑 Extracted Skills
 - 📌 Missing Keywords
