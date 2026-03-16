@@ -45,6 +45,12 @@ cd ai-powered-resume-analyzer
 npm install
 npm run dev
 
+After analyzing a resume, the system provides:
+- 📈 ATS Compatibility Score
+- 🔑 Extracted Skills
+- 📌 Missing Keywords
+- 💡 Suggestions to improve resume quality
+
 ## 📊 Example Output
 
 After analyzing a resume, the system generates an ATS-style evaluation report.
@@ -66,9 +72,3 @@ Suggestions:
 • Add projects related to cloud deployment  
 • Highlight measurable achievements in experience section  
 • Include more job-specific keywords in the skills section
-
-After analyzing a resume, the system provides:
-- 📈 ATS Compatibility Score
-- 🔑 Extracted Skills
-- 📌 Missing Keywords
-- 💡 Suggestions to improve resume quality
